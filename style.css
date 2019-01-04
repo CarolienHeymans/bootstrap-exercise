@@ -2,7 +2,9 @@ body {
   background: url("img/sushibackground.jpg") no-repeat fixed;
   background-size: cover; }
 
-.container {
+.background {
+  margin-left: 200px;
+  margin-right: 200px;
   background-color: #dadada; }
 
 /* sm screens */
